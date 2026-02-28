@@ -1,0 +1,22 @@
+{
+  "type": "tfc:advanced_shapeless_crafting",
+  "ingredients": [
+    {
+      "type": "tfc:not_rotten",
+      "ingredient": {
+        "item": "tfc:food/cooked_rice"
+      }
+    },
+    {
+      "item": "forge:salt"
+    }
+  ],
+  "result": {
+    "stack": {
+      "item": "tofucraft:onigiri_salt"
+    },
+    "modifiers": [
+      "tfc:copy_oldest_food"
+    ]
+  }
+}

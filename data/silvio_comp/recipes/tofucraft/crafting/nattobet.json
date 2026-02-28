@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": {
+      "type": "tfc:not_rotten",
+      "ingredient": {
+        "item": "tfc:food/soybean"
+      }
+    },
+    "W": {
+      "item": "minecraft:hay_block"
+    }
+  },
+  "pattern": [
+    "SSS",
+    "SSS",
+    "WWW"
+  ],
+  "result": {
+    "item": "tofucraft:nattobed"
+  },
+  "show_notification": true
+}

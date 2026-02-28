@@ -1,0 +1,11 @@
+{
+  "consumption": 8.0,
+  "attribute_modifiers": [
+    {
+      "attribute": "minecraft:generic.max_health",
+      "name": "rechargement_skill_stat",
+      "uuid": "aab54410-0b9e-4b2a-a4a0-62afd4647954",
+      "operation": "addition",
+      "amount": 0
+    }
+}

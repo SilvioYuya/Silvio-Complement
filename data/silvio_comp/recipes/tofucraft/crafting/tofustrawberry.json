@@ -1,0 +1,25 @@
+{
+  "type": "tfc:advanced_shapeless_crafting",
+  "ingredients": [
+    {
+      "type": "tfc:not_rotten",
+      "ingredient":{
+        "tag": "forge:tofu"
+      }
+    },
+    {
+      "type": "tfc:not_rotten",
+      "ingredient": {
+        "item": "tfc:food/strawberry"
+      }
+    }
+  ],
+  "result": {
+    "stack": {
+      "item": "tofucraft:tofustrawberry"
+    },
+    "modifiers": [
+      "tfc:copy_oldest_food"
+    ]
+  }
+}

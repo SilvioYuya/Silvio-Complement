@@ -1,0 +1,18 @@
+{
+	"type": "tfc:heating",
+	"ingredient": {
+		"type": "tfc:not_rotten",
+		"ingredient": {
+			"item": "tfc:food/soybean"
+		}
+	},
+	"result_item": {
+		"stack": {
+			"item": "tofucraft:soybeans_parched"
+		},
+		"modifiers": [
+			"tfc:copy_food"
+		]
+	},
+	"temperature": 200
+}

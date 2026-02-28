@@ -1,0 +1,30 @@
+{
+  "type": "tfc:pot",
+  "ingredients": [
+
+  ],
+  "fluid_ingredient": {
+    "ingredient": "tfc:salt_water",
+    "amount": 1000
+  },
+  "duration": 1000,
+  "temperature": 300,
+  "fluid_output": {
+    "fluid": "tofucraft:bittern",
+    "amount": 1000
+  },
+  "item_output": [
+    {
+      "item": "tfc:powder/salt"
+    },
+    {
+      "item": "tfc:powder/salt"
+    },
+    {
+      "item": "tfc:powder/salt"
+    },
+    {
+      "item": "tfc:powder/salt"
+    }
+  ]
+}

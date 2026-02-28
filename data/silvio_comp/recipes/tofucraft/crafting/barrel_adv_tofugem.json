@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "BBB",
+    " C "
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:redstone"
+    },
+    "B": {
+      "item": "tofucraft:tofugem"
+    },
+    "C": {
+      "tag": "tfc:barrels"
+    }
+  },
+  "result": {
+    "item": "tofucraft:barrel_adv_tofugem"
+  }
+}

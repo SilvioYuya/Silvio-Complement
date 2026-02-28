@@ -1,0 +1,11 @@
+{
+  "xp_requirement": 8,
+  "attribute_modifiers": [
+    {
+      "attribute": "minecraft:generic.max_health",
+      "name": "vampirize_skill_stat",
+      "uuid": "72566951-a596-4a5d-9c57-92c4ad954537",
+      "operation": "addition",
+      "amount": 8
+    }
+}

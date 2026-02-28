@@ -1,0 +1,11 @@
+{
+  "type": "tfc:quern",
+  "ingredient": {
+    "type": "tfc:not_rotten",
+    "ingredient": { "item": "tfc:food/potato" }
+  },
+  "result": {
+    "item": "tofucraft:mincedpotato",
+    "count": 2
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "xp_requirement": 12,
+  "attribute_modifiers": [
+    {
+      "attribute": "minecraft:generic.max_health",
+      "name": "shulker_cloak_skill_stat",
+      "uuid": "6df33de6-3878-4b13-9c03-fbd2a4aad279",
+      "operation": "addition",
+      "amount": 0
+    }
+}

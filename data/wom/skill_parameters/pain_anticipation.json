@@ -1,0 +1,11 @@
+{
+  "xp_requirement": 8,
+  "attribute_modifiers": [
+    {
+      "attribute": "minecraft:generic.max_health",
+      "name": "pain_anticipation_skill_stat",
+      "uuid": "a68925bc-d620-471e-9f90-1daf9c138305",
+      "operation": "addition",
+      "amount": 0
+    }
+}

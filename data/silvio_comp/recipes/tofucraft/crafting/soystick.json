@@ -1,0 +1,28 @@
+{
+  "type": "tfc:advanced_shapeless_crafting",
+  "ingredients": [
+    {
+      "type": "tfc:not_rotten",
+      "ingredient": {
+        "item": "tfc:food/soybean"
+      }
+    },
+    {
+      "type": "tfc:not_rotten",
+      "ingredient": {
+        "tag": "tfc:foods/flour"
+      }
+    },
+    {
+      "item": "forge:salt"
+    }
+  ],
+  "result": {
+    "stack": {
+      "item": "tofucraft:soystick"
+    },
+    "modifiers": [
+      "tfc:copy_oldest_food"
+    ]
+  }
+}

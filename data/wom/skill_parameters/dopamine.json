@@ -1,0 +1,11 @@
+{
+  "xp_requirement": 8,
+  "attribute_modifiers": [
+    {
+      "attribute": "minecraft:generic.max_health",
+      "name": "dopamine_skill_stat",
+      "uuid": "4c621ca2-6e31-4ec8-ad90-85a4839341d4",
+      "operation": "addition",
+      "amount": 0
+    }
+}

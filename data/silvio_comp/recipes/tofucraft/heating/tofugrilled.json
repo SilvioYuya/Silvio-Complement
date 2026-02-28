@@ -1,0 +1,18 @@
+{
+	"type": "tfc:heating",
+	"ingredient": {
+		"type": "tfc:not_rotten",
+		"ingredient": {
+			"tag": "forge:tofu"
+		}
+	},
+	"result_item": {
+		"stack": {
+			"item": "tofucraft:tofugrilled"
+		},
+		"modifiers": [
+			"tfc:copy_food"
+		]
+	},
+	"temperature": 200
+}

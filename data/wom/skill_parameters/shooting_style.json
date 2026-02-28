@@ -1,0 +1,11 @@
+{
+  "xp_requirement": 4,
+  "attribute_modifiers": [
+    {
+      "attribute": "minecraft:generic.max_health",
+      "name": "shooting_style_skill_stat",
+      "uuid": "b870bffb-be04-49e2-926f-d42e2526d14d",
+      "operation": "addition",
+      "amount": 0
+    }
+}

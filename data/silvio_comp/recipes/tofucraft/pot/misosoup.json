@@ -1,0 +1,30 @@
+{
+  "type": "tfc:pot",
+  "ingredients": [
+    {
+      "type": "tfc:not_rotten",
+      "ingredient": {
+        "tag": "forge:tofu"
+      }
+    },
+    {
+      "item": "tofucraft:miso"
+    },
+    {
+      "item": "tofucraft:bottle_dashi"
+    },
+    {
+      "tag": "tfc:bowls"
+    }
+  ],
+  "fluid_ingredient": {
+    "ingredient": "minecraft:water",
+    "amount": 100
+  },
+  "duration": 1000,
+  "temperature": 300,
+  "item_output": [
+    { "item": "minecraft:glass_bottle"},
+    { "item": "tofucraft:misosoup" }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "xp_requirement": 8,
+  "attribute_modifiers": [
+    {
+      "attribute": "minecraft:generic.max_health",
+      "name": "critical_knowledge_skill_stat",
+      "uuid": "45964ab2-461c-4f44-bce7-f0279f752290",
+      "operation": "addition",
+      "amount": 0
+    }
+}

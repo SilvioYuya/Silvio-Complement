@@ -1,0 +1,31 @@
+{
+  "type": "tfc:advanced_shapeless_crafting",
+  "ingredients": [
+    {
+      "type": "tfc:not_rotten",
+      "ingredient": [
+        {
+          "item": "tfc:food/cooked_rice"
+        },
+        {
+          "item": "tfc:food/barley_flour"
+        },
+        {
+          "item": "tfc:food/oat_flour"
+        },
+        {
+          "item": "tfc:food/wheat_flour"
+        }
+      ]
+    },
+    {
+        "type": "tfc:not_rotten",
+        "ingredient": { "item": "tfc:food/soybean" }
+      }
+  ],
+  "result": {
+    "stack": {
+      "item": "tofucraft:koujibase"
+    }
+  }
+}

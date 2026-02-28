@@ -1,0 +1,12 @@
+{
+  "xp_requirement": 0,
+  "attribute_modifiers": [
+    {
+      "attribute": "epicfight:staminar",
+      "name": "aqua_maneuvre_skill_stat",
+      "uuid": "a7c7f97a-e42b-4f00-bdd5-56566656849f",
+      "operation": "multiply_total",
+      "amount": 0.10
+    }
+  ]
+}

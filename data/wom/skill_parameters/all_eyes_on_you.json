@@ -1,0 +1,12 @@
+{
+  "xp_requirement": 12,
+  "attribute_modifiers": [
+    {
+      "attribute": "epicfight:staminar",
+      "name": "all_eyes_on_you_skill_stat",
+      "uuid": "76a61023-5963-45b5-a2e1-0750dd4b2b00",
+      "operation": "addition",
+      "amount": 4.0
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "xp_requirement": 12,
+  "attribute_modifiers": [
+    {
+      "attribute": "minecraft:generic.max_health",
+      "name": "lunatic_vivacity_skill_stat",
+      "uuid": "3c3f4774-6269-45ab-911d-1235e187859f",
+      "operation": "addition",
+      "amount": 0
+    }
+}

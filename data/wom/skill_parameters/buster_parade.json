@@ -1,0 +1,11 @@
+{
+  "xp_requirement": 12,
+  "attribute_modifiers": [
+    {
+      "attribute": "minecraft:generic.max_health",
+      "name": "buster_parade_skill_stat",
+      "uuid": "e59e4d8f-9728-4192-9ece-f3c16c8f6723",
+      "operation": "addition",
+      "amount": 0
+    }
+}

@@ -1,0 +1,12 @@
+{
+  "xp_requirement": 8,
+  "attribute_modifiers": [
+    {
+      "attribute": "minecraft:generic.max_health",
+      "name": "arrow_tenacity_skill_stat",
+      "uuid": "c0b95be2-7789-43bd-ab27-c29c50206e52",
+      "operation": "addition",
+      "amount": 0
+    }
+  ]
+}

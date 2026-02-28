@@ -1,0 +1,11 @@
+{
+  "xp_requirement": 8,
+  "attribute_modifiers": [
+    {
+      "attribute": "minecraft:generic.max_health",
+      "name": "heart_shield_skill_stat",
+      "uuid": "f3a1aa46-aafb-480f-a475-eba7185d1e8f",
+      "operation": "addition",
+      "amount": 0
+    }
+}

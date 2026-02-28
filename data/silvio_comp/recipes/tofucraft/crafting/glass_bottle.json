@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "A A",
+    " A "
+  ],
+  "key": {
+    "A": { "tag": "forge:glass_panes" }
+  },
+  "result": {
+    "count": 4,
+    "item": "minecraft:glass_bottle"
+  }
+}

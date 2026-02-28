@@ -1,0 +1,11 @@
+{
+  "xp_requirement": 0,
+  "attribute_modifiers": [
+    {
+      "attribute": "minecraft:generic.max_health",
+      "name": "natural_sprinter_skill_stat",
+      "uuid": "f0d881b0-9f29-43ec-b2ec-7a2e59f40506",
+      "operation": "addition",
+      "amount": 0
+    }
+}

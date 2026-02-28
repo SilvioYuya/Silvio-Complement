@@ -1,0 +1,18 @@
+{
+  "xp_requirement": 0,
+  "attribute_modifiers": [
+    {
+      "attribute": "minecraft:generic.max_health",
+      "name": "spider_techniques_skill_stat",
+      "uuid": "b1291bea-48bd-47a5-995e-659126e28180",
+      "operation": "addition",
+      "amount": 4
+    },
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "name": "spider_techniques_skill_stat",
+      "uuid": "b1291bea-48bd-47a5-995e-659126e28180",
+      "operation": "multiply_total",
+      "amount": 0.10
+    }
+}

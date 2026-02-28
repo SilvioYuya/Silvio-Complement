@@ -1,0 +1,11 @@
+{
+  "xp_requirement": 8,
+  "attribute_modifiers": [
+    {
+      "attribute": "minecraft:generic.max_health",
+      "name": "latent_retribution_skill_stat",
+      "uuid": "1d3e25b2-864b-48b3-925d-ea1fbce01238",
+      "operation": "addition",
+      "amount": 0
+    }
+}

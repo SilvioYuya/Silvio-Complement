@@ -1,0 +1,18 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "type": "tfc:not_rotten",
+    "ingredient": {
+      "item": "tofucraft:tofuhamburg_raw"
+    }
+  },
+  "result_item": {
+    "stack": {
+      "item": "tofucraft:tofuhamburg"
+    },
+    "modifiers": [
+      "tfc:copy_food"
+    ]
+  },
+  "temperature": 200
+}

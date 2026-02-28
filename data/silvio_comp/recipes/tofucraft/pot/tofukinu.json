@@ -1,0 +1,21 @@
+{
+  "type": "tfc:pot",
+  "ingredients": [
+    {
+       "item": "tofucraft:bittern_bottle" 
+    }
+  ],
+  "fluid_ingredient": {
+    "ingredient": "tofucraft:soymilk",
+    "amount": 1000
+  },
+  "duration": 1000,
+  "temperature": 300,
+  "item_output": [
+    { "item": "minecraft:glass_bottle" },
+    { "item": "tofucraft:tofukinu" },
+    { "item": "tofucraft:tofukinu" },
+    { "item": "tofucraft:tofukinu" },
+    { "item": "tofucraft:tofukinu" }
+  ]
+}

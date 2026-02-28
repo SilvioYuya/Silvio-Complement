@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+      "item": "tofucraft:gelatinraw"
+  },
+  "result_item": {
+    "stack": {
+      "item": "tofucraft:gelatin"
+    }
+  },
+  "temperature": 200
+}

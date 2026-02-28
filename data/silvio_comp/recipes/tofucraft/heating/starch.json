@@ -1,0 +1,12 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+      "item": "tofucraft:starch_raw"
+  },
+  "result_item": {
+    "stack": {
+      "item": "tofucraft:starch"
+    }
+  },
+  "temperature": 200
+}

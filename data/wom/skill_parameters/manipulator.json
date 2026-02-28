@@ -1,0 +1,11 @@
+{
+  "xp_requirement": 8,
+  "attribute_modifiers": [
+    {
+      "attribute": "minecraft:generic.max_health",
+      "name": "manipulator_skill_stat",
+      "uuid": "45090a31-6c50-47d4-8df8-c87dfd70fdef",
+      "operation": "addition",
+      "amount": 0
+    }
+}
