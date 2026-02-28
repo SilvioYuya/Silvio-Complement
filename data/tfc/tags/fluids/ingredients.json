@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "tofucraft:soymilk",
+      "required": false
+    },
+    {
+      "id": "tofucraft:soymilk_nether",
+      "required": false
+    },
+    {
+      "id": "tofucraft:soymilk_soul",
+      "required": false
+    },
+    {
+      "id": "tofucraft:bittern",
+      "required": false
+    }
+  ]
+}
