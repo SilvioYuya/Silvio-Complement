@@ -7,9 +7,96 @@ license="MIT License"
 modId="silvio_comp"
 version="1.0.0"
 authors="silvio"
-displayName="SilvioComplement"
+displayName="Silvio Comp"
 description='''
+
+[EN/日本語]
+
+This is a mod that translates various mods into Japanese, add new recipes, and organize the data.
+
 様々なModの日本語訳・レシピ追加・データ整理を行います
+
+Functions / 機能一覧
+
+1.Japanse translate / 日本語訳
+
+Applied Mekanistics
+Apotheosis affixes rename / 称号名再翻訳
+Apothic Attributes Attributes translate / ステータス翻訳 
+Apotheotic Additions  affixes rename / 称号名再翻訳
+Blood Magic : WIP / 翻訳中
+Brewchew
+Expanded Combat
+Epic Knights Ice and Fire
+MrCrayfish's Furniture Mod Refurbished
+MrCrayfish's Furniture Mod Legacy
+kind of Delight Mods ... / Delight 系 Mod 
+    Ars Nouveau's Flavors & Delight
+    Ender's Delight
+    Nether's Delight
+    Ocean's Delight
+    Quark Delight
+Industrial Foregoing
+MC Paint
+Macaw's ...
+Macaw's Bridges
+Macaw's Doors
+Macaw's Paths
+Mekanism Lasers
+Mekanism: Weapons
+Ore Excavation
+Pam's HarvestCraft 2 ...
+    Pam's HarvestCraft 2 - Food Core
+    Pam's HarvestCraft 2 - Crops
+    Pam's HarvestCraft 2 - Trees
+    Pam's HarvestCraft 2 - Food Extended
+RailCraft Reborn : WIP / 翻訳中
+Mekanism Advanced Generators
+Samurai Dynasty
+Timeless and Classics Zero  Gun Packs
+    Applied Armorer, Create Armorer
+    Super Bluearchive Gun pack: WIP / 翻訳中, Cybar Armorer : WIP / 翻訳中, Halo Gun Pack
+    EmxArms : WIP / 翻訳中, EmxCUST : WIP / 翻訳中, TrisDyna : WIP / 翻訳中,
+    BGGP : WIP / 翻訳中, Yeet
+Tome of blood Rebirth
+Weapons of Miracles
+
+2.New Recipes / 追加レシピ
+
+Tofucraft in TFC! / TFCワールドで豆腐Craft!
+Add recipes for play tofucraft in Terra firma craft. / TFCの世界で豆腐作成を楽しめる新レシピを追加
+Mekanism More Biofuel Recipes
+This mod includes Mekanism more biofuel recipes. You can make Mekanism's biofuel from non-vanilla food items.
+/ このModはMekanism more biofuel recipesを内蔵しています。バニラにない食料品をMekanismのバイオ燃料に加工できるようになります。
+
+3.Epic Fight Capabilities & Trails / Epic Fight 武器属性・エフェクト付与
+
+FarmarsDelight
+    Add Capabilities for Knifes and a skillet / ナイフとスキレットに武器属性追加
+    Delightful : knifes / ナイフ
+    End's Delight : knifes / ナイフ
+    More Delight : knifes / ナイフ
+Expanded Combat
+Add Capabilities for various weapons / 様々な武器に武器属性追加
+L2 Weaponry
+Add Capabilities for various weapons / 様々な武器に武器属性追加
+Samurai Dynasty
+Add Capabilities and Trails for weapons / 複数の武器に武器属性・エフェクト追加
+Mekanism Tools
+Add Trails for swords, axes and paxels / 剣・斧・パクセルにエフェクト追加
+Iron's Spells 'n Spellbooks
+Add Capabilities for weapons and staves / 武器と杖に武器属性追加
+RailCraft Reborn
+Add Capabilities for crowbars and spike mauls / バールとスパイキーハンマーに武器属性追加
+Terra Firma Craft
+Add Capabilities and Trails for various weapons and tools / 様々な武器と道具に武器属性・エフェクト追加
+
+4.Apotheosis new affixes / 新称号追加
+
+Add new affixes in Apotheosis. 
+If you want a full function, I recommend installing EpicFight Mod.
+Apotheosisの新称号を追加します。
+この機能の一部はEpicfightの導入で解放されます
 
 '''
 logoFile = "logo.png"
