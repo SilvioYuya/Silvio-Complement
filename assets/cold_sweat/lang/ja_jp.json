@@ -1,0 +1,18 @@
+{
+  "attribute.base_temperature": "基本温度",
+  "attribute.base_temperature.desc": "プレイヤーの通常時の体温",
+  "attribute.burning_point": "引火温度",
+  "attribute.burning_point.desc": "プレイヤーが生息できる気温の最大値",
+  "attribute.freezing_point": "凝固温度",
+  "attribute.freezing_point.desc": "プレイヤーが生息できる気温の最小値",
+  "attribute.cold_dampening": "冷却軽減",
+  "attribute.cold_dampening.desc": "プレイヤーへの耐冷却性（負の値なら加速される）",
+  "attribute.cold_resistance": "凍結耐性",
+  "attribute.cold_resistance.desc": "プレイヤー凍結時に発生するダメージ及び効果耐性（1で完全耐性）",
+  "attribute.heat_dampening": "加熱軽減",
+  "attribute.heat_dampening.desc": "プレイヤーへの耐過熱性（負の値なら加速される）",
+  "attribute.heat_resistance": "過熱耐性",
+  "attribute.heat_resistance.desc": "プレイヤー引火時に発生するダメージ及び効果耐性（1で完全耐性）",
+  "attribute.world_temperature": "ワールドの気温",
+  "attribute.world_temperature.desc": "プレイヤーごとのワールドの気温"
+}

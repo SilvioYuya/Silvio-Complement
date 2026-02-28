@@ -1,0 +1,36 @@
+modLoader="lowcodefml"
+loaderVersion="[47,)"
+license="MIT License"
+
+[[mods]]
+
+modId="silvio_comp"
+version="1.0.0"
+authors="silvio"
+displayName="SilvioComplement"
+description='''
+様々なModの日本語訳・レシピ追加・データ整理を行います
+
+'''
+logoFile = "logo.png"
+
+[[dependencies.silvio_comp]]
+modId="cold_sweat"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.silvio_comp]]
+modId="epicfight"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="AFTER"
+    side="BOTH"
+    
+[[dependencies.silvio_comp]]
+modId="tfc"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="AFTER"
+    side="BOTH"
