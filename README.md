@@ -1,4 +1,5 @@
 # Silvio-Complement
+[EN/日本語]
 
 This is a mod that translates various mods into Japanese, add new recipes, and organize the data.
 
