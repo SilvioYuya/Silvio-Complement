@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "tfc:food/soybean",
+      "required": false
+    },
+    {
+      "id": "tofucraft:seeds_soybeans",
+      "required": false
+    }
+  ]
+}

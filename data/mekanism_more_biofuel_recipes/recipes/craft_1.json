@@ -1,0 +1,14 @@
+{
+    "type": "mekanism:crushing",
+    "input": {
+      "ingredient": [
+        {
+          "tag": "mekanism_more_biofuel_recipes:to_biofuel/ars_1"
+        }
+      ]
+    },
+    "output": {
+      "item": "mekanism:bio_fuel",
+      "count": 1
+    }
+}

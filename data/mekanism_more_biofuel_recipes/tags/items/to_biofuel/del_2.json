@@ -1,0 +1,166 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "farmersdelight:tomato_seeds",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:rotten_tomato",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:cabbage_seeds",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:cabbage_leaf",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:pumpkin_slice",
+      "required": false
+    },
+    {
+      "id": "moredelight:diced_potatoes",
+      "required": false
+    },
+    {
+      "id": "delightful:green_tea_leaf",
+      "required": false
+    },
+    {
+      "id": "delightful:acorn",
+      "required": false
+    },
+    {
+      "id": "delightful:cantaloupe_seeds",
+      "required": false
+    },
+    {
+      "id": "delightful:cantaloupe_slice",
+      "required": false
+    },
+    {
+      "id": "delightful:salmonberry_pips",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:avocado_pit",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:avocado_leaves",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:cut_avocado",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:cucumber_seeds",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:corn_kernels",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:eggplant_seeds",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:straw",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:tree_bark",
+      "required": false
+    },
+
+    {
+      "id": "farmersdelight:pie_crust",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:wheat_dough",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:raw_pasta",
+      "required": false
+    },
+    {
+      "id": "delightful:matcha",
+      "required": false
+    },
+    {
+      "id": "corn_delight:corn_seeds",
+      "required": false
+    },
+    {
+      "id": "corn_delight:tortilla_chip",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:tea_seeds",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:tea_leaves",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:udumbara_leaves",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:udumbara_flower",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:cucumber_seeds",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:red_grape_seeds",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:black_grape_seeds",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:white_grape_seeds",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:black_tea_leaves",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:grean_tea_leaves",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:oolong_tea_leaves",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:white_tea_leaves",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:dark_tea_leaves",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:yellow_tea_leaves",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:matcha",
+      "required": false
+    }
+  ]
+}

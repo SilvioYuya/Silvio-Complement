@@ -1,0 +1,93 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "farmersdelight:tomato",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:onion",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:rice",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:rice_panicle",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:cabbage",
+      "required": false
+    },
+    {
+      "id": "delightful:salmonberries",
+      "required": false
+    },
+    {
+      "id": "delightful:cantaloupe",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:avocado",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:cucumber",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:eggplant",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:white_eggplant",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:corn_cob",
+      "required": false
+    },
+    {
+      "id": "corn_delight:corn",
+      "required": false
+    },
+    {
+      "id": "corn_delight:popcorn",
+      "required": false
+    },
+    {
+      "id": "corn_delight:tortilla_raw",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:soybean",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:pods",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:redbean",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:cucumber",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:red_grape",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:black_grape",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:while_grape",
+      "required": false
+    }
+  ]
+}

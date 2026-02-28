@@ -1,0 +1,69 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "farmersdelight:sweet_berry_cookie",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:honey_cookie",
+      "required": false
+    },
+    {
+      "id": "delightful:glow_jam_cookie",
+      "required": false
+    },
+    {
+      "id": "corn_delight:grilled_corn",
+      "required": false
+    },
+    {
+      "id": "corn_delight:boiled_corn",
+      "required": false
+    },
+    {
+      "id": "corn_delight:caramel_popcorn",
+      "required": false
+    },
+    {
+      "id": "corn_delight:cornbread_batter",
+      "required": false
+    },
+    {
+      "id": "corn_delight:cornbread",
+      "required": false
+    },
+    {
+      "id": "corn_delight:tortilla",
+      "required": false
+    },
+    {
+      "id": "corn_delight:taco",
+      "required": false
+    },
+    {
+      "id": "#qualitycrops:quality/diamond",
+      "required": false
+    },
+    {
+      "id": "#qualitycrops:quality/gold",
+      "required": false
+    },
+    {
+      "id": "#qualitycrops:quality/iron",
+      "required": false
+    },
+    {
+      "id": "#qualitycrops:iron/diamond",
+      "required": false
+    },
+    {
+      "id": "#qualitycrops:iron/gold",
+      "required": false
+    },
+    {
+      "id": "#qualitycrops:iron/iron",
+      "required": false
+    }
+  ]
+}
