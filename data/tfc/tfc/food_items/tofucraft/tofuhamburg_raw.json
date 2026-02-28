@@ -1,0 +1,9 @@
+{
+  "ingredient": {
+    "item": "tofucraft:tofuhamburg_raw"
+  },
+  "hunger": 4,
+  "saturation": 1,
+  "decay_modifier": 4,
+  "protein": 0.5
+}

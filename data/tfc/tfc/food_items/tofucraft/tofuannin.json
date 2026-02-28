@@ -1,0 +1,10 @@
+{
+  "ingredient": {
+    "item": "tofucraft:tofuannin"
+  },
+  "hunger": 2,
+  "saturation": 0,
+  "decay_modifier": 2.5,
+  "vegetables": 1.0,
+  "fruit": 0.5
+}

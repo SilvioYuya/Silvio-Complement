@@ -1,0 +1,10 @@
+{
+	"ingredient": {
+		"item": "tofucraft:tofumiso"
+	},
+	"hunger": 3,
+	"saturation": 1,
+	"decay_modifier": 1.5,
+	"protein": 1.0,
+	"vegetables": 1.0
+}

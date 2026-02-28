@@ -1,0 +1,10 @@
+{
+  "ingredient": {
+    "item": "tofucraft:tofufried_pouch"
+  },
+  "hunger": 3,
+  "saturation": 3,
+  "decay_modifier": 2,
+  "protein": 1.2,
+  "vegetables": 0.2
+}

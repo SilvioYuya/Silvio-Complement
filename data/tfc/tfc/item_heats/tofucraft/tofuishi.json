@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "tag": "tofucraft:tofuishi"
+  },
+  "heat_capacity": 2.0,
+  "forging_temperature": 100,
+  "welding_temperature": 120
+}

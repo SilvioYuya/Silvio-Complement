@@ -1,0 +1,11 @@
+{
+	"ingredient": {
+		"item": "tofucraft:tofukinu"
+	},
+	"hunger": 2,
+	"saturation": 0,
+	"water": 2.5,
+	"decay_modifier": 2,
+	"protein": 0.5,
+	"vegetables": 0.5
+}

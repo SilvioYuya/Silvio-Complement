@@ -1,0 +1,11 @@
+{
+  "ingredient": {
+    "item": "tofucraft:soystick"
+  },
+  "hunger": 2,
+  "saturation": 1,
+  "decay_modifier": 1.5,
+  "grain": 0.5,
+  "protein": 1.0,
+  "vegetables": 0.5
+}
